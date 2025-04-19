@@ -40,7 +40,8 @@ The dataset included 200 samples, with the following aggregate summary:
 
 ### Engagement Dashboard
 
-![Engagement Dashboard](./email_engagement_dashboard.jpeg)
+![email_engagement_dashboard](https://github.com/user-attachments/assets/8f342087-de01-491f-910d-88ea5b59d688)
+
 
 ### Key Observations
 
