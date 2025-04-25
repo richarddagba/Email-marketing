@@ -38,7 +38,12 @@ Each group was composed of approximately 95 recipients. The emails were sent usi
 | B     | Generic      | 94               | 91                     | 3.20%       | 19.80%    | 21           | 0.00%      | 0             | 1.10%             | 1            |
 
 ## Results
+# Insight into Campaign Performance
+The comparative analysis of email campaign Group A (Personalized) and Group B (Generic) reveals a substantial difference in customer engagement metrics. Group A achieved an open rate of 31.2%, while Group B recorded a significantly lower 19.8%. Despite similar numbers of successful deliveries (93 vs. 91), the personalized email group demonstrated notably higher engagement, suggesting that tailored content substantially increases the likelihood of recipients opening emails.
 
+Bounce rates were also slightly lower in Group A (2.10%) compared to Group B (3.20%), indicating better deliverability possibly linked to increased sender reputation through personalization practices (Rana, Kiran and Gul, 2024). Importantly, the unsubscribe rate in Group A was 0.00%, in contrast to Group B’s 1.10%, highlighting higher message relevance and recipient satisfaction for the personalized group.
+
+Although neither group recorded any clicks, likely due to either content layout or audience readiness, the overall insights support existing research that personalized communications increase engagement and reduce opt-outs (Verma and Fatma, 2025; Sayeed, 2023). These findings reinforce the effectiveness of personalization as a strategic tool in digital marketing and align with previous studies linking tailored content to enhanced user response (Wang, Lu and Shi, 2022).
 ### Data Visualization
 
 **Figure 1: Engagement Metrics**
