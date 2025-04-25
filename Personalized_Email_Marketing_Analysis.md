@@ -57,15 +57,22 @@ The open rate for personalized emails (31.2%) is significantly higher than for g
 
 ### Statistical Analysis
 
+📐 Table 2: Summary of Inferential Statistics (Two-Proportion Z-Test)
+![image](https://github.com/user-attachments/assets/48896fa7-7d29-47d9-9a15-b686e2e53af7)
+
+
 We performed a two-proportion z-test to evaluate the significance of the difference in open rates:
 
 - **Group A (Personalized)**: 54 opens out of 93
 - **Group B (Generic)**: 21 opens out of 91
 
 Results:  
-Z = 2.52, p = 0.0118
+The A/B test analysis revealed a statistically significant difference in customer engagement between personalized and generic email campaigns. With a Z-statistic of 2.52 (p=0.0118), the results exceeded the predetermined alpha threshold of α=0.05, leading to the rejection of the null hypothesis (H_0). This indicates that the observed improvement in open rates for personalized emails is unlikely to be due to random chance. The Z-score of 2.52 reflects that the personalized email group’s performance (31.2% open rate) was 2.52 standard deviations above the mean expected under H0, providing robust evidence for the alternative hypothesis (H_1).
 
-Since the p-value < 0.05, we reject the null hypothesis. This result supports the hypothesis that personalized emails lead to significantly greater customer engagement.
+The p-value of 0.0118 signifies only a 1.18% probability of observing such a disparity if no true effect existed. Personalized emails achieved a 57% relative increase in open rates compared to generic emails (31.2% vs. 19.8%), demonstrating both statistical and practical significance. This aligns with empirical studies emphasizing personalization’s role in enhancing customer engagement. While the results confirm the efficacy of tailored content for improving open rates, the absence of clicks (0% CTR in both groups) suggests further optimization of email content or calls-to-action is necessary.
+
+These findings showed the value of personalization in email marketing strategies, though future research should explore long-term engagement and conversion impacts. The analysis validates the hypothesis that personalized emails drive meaningful engagement, offering actionable insights for businesses aiming to refine their digital marketing approaches.
+
 
 ## Discussion
 
