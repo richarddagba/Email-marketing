@@ -50,6 +50,9 @@ Although neither group recorded any clicks, likely due to either content layout 
 ![engagement_metrics_comparison](https://github.com/user-attachments/assets/13b3f2af-58aa-45fe-ab16-f6f1e794d0bb)
 
 The open rate for personalized emails (31.2%) is significantly higher than for generic emails (19.8%). Meanwhile, the unsubscribe rate is higher in the generic group (1.1%) compared to 0% in the personalized group.
+**Figure 2: Key Metrics Dashboard**
+![email_ab_test_dashboard](https://github.com/user-attachments/assets/c720eb90-9f3d-4be1-affa-fd9896e06156)
+
 
 ### Statistical Analysis
 
