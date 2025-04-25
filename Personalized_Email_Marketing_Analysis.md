@@ -36,9 +36,8 @@ Each group was composed of approximately 95 recipients. The emails were sent usi
 
 ### Data Visualization
 
-**Figure 1: Comparison of Open and Unsubscribe Rates**
-
-(Include matplotlib or Plotly bar chart)
+**Figure 1: Engagement Metrics**
+![engagement_metrics_comparison](https://github.com/user-attachments/assets/13b3f2af-58aa-45fe-ab16-f6f1e794d0bb)
 
 The open rate for personalized emails (31.2%) is significantly higher than for generic emails (19.8%). Meanwhile, the unsubscribe rate is higher in the generic group (1.1%) compared to 0% in the personalized group.
 
