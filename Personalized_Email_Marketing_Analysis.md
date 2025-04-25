@@ -18,12 +18,17 @@ Previous empirical studies suggest that such personalization enhances the percei
 
 ### Experimental Design
 
-The study used A/B testing methodology, randomly dividing participants into two groups:
+This study employed an A/B testing framework to assess the effectiveness of personalized versus generic email marketing strategies. Participants were randomly divided into two groups to eliminate selection bias and enhance the validity of the results.
 
-- **Group A** received personalized emails.
-- **Group B** received generic emails.
+Group A received emails that were personalized based on recipient-specific attributes such as name, previous interaction history, and segmented interests.
 
-Each group was composed of approximately 95 recipients. The emails were sent using a professional email marketing platform supporting A/B testing features. Metrics such as open rate, click-through rate (CTR), bounce rate, and unsubscribe rate were tracked.
+Group B received standard, non-personalized (generic) emails with identical content for all recipients.
+
+Each group consisted of approximately 95 recipients, yielding a total sample size of around 190 individuals. The emails were dispatched using a professional email marketing platform that supports A/B testing and real-time analytics. This platform enabled precise tracking of various key performance indicators (KPIs), including open rate, click-through rate (CTR), bounce rate, and unsubscribe rate.
+
+The data collected from the email campaign were exported in .csv format, allowing for structured data management and analysis. Python was employed for both data visualization and inferential statistical analysis. Libraries such as pandas were used for data cleaning and manipulation, while matplotlib and seaborn facilitated the generation of graphical insights, including bar charts and line graphs for comparative trends.
+
+For inferential statistics, scipy.stats and statsmodels libraries were utilized to conduct t-tests and calculate confidence intervals, enabling the identification of statistically significant differences between the two groups. This rigorous methodology ensured that any observed effect on engagement metrics could be attributed with greater confidence to the email personalization variable.
 
 ### Email Content
 
