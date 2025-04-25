@@ -2,12 +2,16 @@
 
 ## Introduction
 
-This research investigates the effects of personalized email marketing on customer engagement through an A/B testing experiment. The study aims to determine whether personalized email content leads to higher open and engagement rates compared to generic email campaigns. The hypothesis tested is:
+In the evolving digital landscape, email marketing remains a cornerstone strategy for businesses aiming to connect with customers in a targeted and measurable way. Amidst the proliferation of marketing channels, personalized email marketing has gained prominence for its ability to deliver tailored content that resonates with individual recipients. This research investigates the effects of personalized email marketing on customer engagement through an A/B testing framework, comparing the effectiveness of personalized versus generic email content.
 
-**H₀**: Personalized emails do not significantly affect customer engagement.  
-**H₁**: Personalized emails significantly increase customer engagement.
+The primary objective is to determine whether personalization enhances engagement metrics—such as open rates, click-through rates, and unsubscribe rates—compared to non-personalized email communications. The research hypothesis is structured as follows:
 
-This analysis is situated within the context of increasing digital marketing competition and the growing need for optimized, data-driven communication strategies (Rana et al., 2024).
+H₀: Personalized emails do not significantly affect customer engagement.
+H₁: Personalized emails significantly increase customer engagement.
+
+This study responds to the increasing demand for data-driven marketing strategies, particularly those that can be empirically validated and scaled using automation tools. As competition intensifies, businesses are required to optimise their customer communication strategies not only for efficiency but also for relevance and responsiveness (Rana et al., 2024). Personalized email marketing leverages customer data such as browsing behaviour, purchase history, and demographic attributes to craft highly relevant content, thereby improving the likelihood of engagement (Verma and Fatma, 2025).
+
+Previous empirical studies suggest that such personalization enhances the perceived value of messages, leading to improved customer satisfaction and increased interaction rates (Sayeed, 2023; Wang, Lu and Shi, 2022). By conducting a rigorous A/B testing experiment, this research aims to build on these findings and provide actionable insights into how personalized email marketing can be strategically implemented to improve engagement outcomes.
 
 ## Methodology
 
