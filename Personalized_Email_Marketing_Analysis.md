@@ -4,7 +4,7 @@
 
 In the evolving digital landscape, email marketing remains a cornerstone strategy for businesses aiming to connect with customers in a targeted and measurable way. Amidst the proliferation of marketing channels, personalized email marketing has gained prominence for its ability to deliver tailored content that resonates with individual recipients. This research investigates the effects of personalized email marketing on customer engagement through an A/B testing framework, comparing the effectiveness of personalized versus generic email content.
 
-The primary objective is to determine whether personalization enhances engagement metrics—such as open rates, click-through rates, and unsubscribe rates—compared to non-personalized email communications. The research hypothesis is structured as follows:
+The primary objective is to determine whether personalization enhances engagement metrics; such as open rates, click-through rates, and unsubscribe rates—compared to non-personalized email communications. The research hypothesis is structured as follows:
 
 H₀: Personalized emails do not significantly affect customer engagement.
 
