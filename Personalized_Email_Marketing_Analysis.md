@@ -24,7 +24,7 @@ Group A received emails that were personalized based on recipient-specific attri
 
 Group B received standard, non-personalized (generic) emails with identical content for all recipients.
 
-Each group consisted of approximately 95 recipients, yielding a total sample size of around 190 individuals. The emails were dispatched using a professional email marketing platform that supports A/B testing and real-time analytics. This platform enabled precise tracking of various key performance indicators (KPIs), including open rate, click-through rate (CTR), bounce rate, and unsubscribe rate.
+Each group consisted of approximately 95 recipients, yielding a total sample size of around 190 individuals. The emails were dispatched using the professional aforementioned email marketing platform that supports A/B testing and real-time analytics. This platform enabled precise tracking of various key performance indicators (KPIs), including open rate, click-through rate (CTR), bounce rate, and unsubscribe rate.
 
 The data collected from the email campaign were exported in .csv format, allowing for structured data management and analysis. Python was employed for both data visualization and inferential statistical analysis. Libraries such as pandas were used for data cleaning and manipulation, while matplotlib and seaborn facilitated the generation of graphical insights, including bar charts and line graphs for comparative trends.
 
