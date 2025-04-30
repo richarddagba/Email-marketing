@@ -18,7 +18,7 @@ Previous empirical studies suggest that such personalization enhances the percei
 
 ### Experimental Design
 
-This study employed an A/B testing framework to assess the effectiveness of personalized versus generic email marketing strategies. Participants were randomly divided into two groups to eliminate selection bias and enhance the validity of the results.
+This study employed an A/B testing framework to assess the effectiveness of personalized versus generic email marketing strategies. Participants were randomly divided into two groups to eliminate selection bias and enhance the validity of the results. The experiment was conducted using Mailchimp, a widely used email marketing platform that facilitated accurate audience segmentation, automated delivery, and real-time performance tracking. A multivariate test focusing specifically on subject lines was carried out to evaluate how personalized versus generic subject lines influenced key engagement metrics such as open rates and click-through rates. By isolating subject lines as the variable, the study aimed to determine the direct impact of personalization at the first point of customer interaction.
 
 Group A received emails that were personalized based on recipient-specific attributes such as name, previous interaction history, and segmented interests.
 
