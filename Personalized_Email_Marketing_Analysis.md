@@ -4,7 +4,7 @@
 
 In the evolving digital landscape, email marketing remains a cornerstone strategy for businesses aiming to connect with customers in a targeted and measurable way. Amidst the proliferation of marketing channels, personalized email marketing has gained prominence for its ability to deliver tailored content that resonates with individual recipients. This research investigates the effects of personalized email marketing on customer engagement through an A/B testing framework, comparing the effectiveness of personalized versus generic email content.
 
-The primary objective is to determine whether personalization enhances engagement metrics; such as open rates, click-through rates, and unsubscribe rates—compared to non-personalized email communications. The research hypothesis is structured as follows:
+The primary objective is to determine whether personalization enhances engagement metrics; such as open rates, click-through rates, and unsubscribe rates compared to non-personalized email communications. The research hypothesis is structured as follows:
 
 H₀: Personalized emails do not significantly affect customer engagement.
 
@@ -66,7 +66,7 @@ The open rate for personalized emails (31.2%) is significantly higher than for g
 ![image](https://github.com/user-attachments/assets/48896fa7-7d29-47d9-9a15-b686e2e53af7)
 
 
-We performed a two-proportion z-test to evaluate the significance of the difference in open rates:
+I performed a two-proportion z-test to evaluate the significance of the difference in open rates:
 
 - **Group A (Personalized)**: 54 opens out of 93
 - **Group B (Generic)**: 21 opens out of 91
@@ -82,7 +82,7 @@ These findings showed the value of personalization in email marketing strategies
 
 The findings of this A/B test align with empirical research demonstrating that personalised email marketing significantly enhances customer engagement. Studies by Verma and Fatma (2025) and Sayeed (2023) posit that tailored content increases perceived relevance, thereby improving open rates and reducing opt-outs. This is evident in the 57% higher open rate for Group A (31.2%) compared to Group B (19.8%), reinforcing the notion that personalisation fosters a stronger connection with recipients. The absence of clicks in both groups, however, suggests limitations in content design or calls-to-action (CTAs), underscoring the need for complementary strategies such as dynamic visuals or urgency-driven messaging (Valenzuela-Gálvez et al., 2022).
 
-Advanced technologies like AI-driven segmentation and predictive analytics could further optimise engagement. For instance, Ijomah et al. (2024) highlight that machine learning algorithms enable hyper-targeted campaigns by analysing behavioural data, which could address the CTR gap observed in this study. Similarly, Deligiannis et al. (2020) demonstrate that timing optimisation—sending emails when users are most active—can amplify open rates. Integrating these tools could refine personalisation strategies beyond basic name inclusion, such as tailoring product recommendations based on browsing history or past purchases.
+Advanced technologies like AI-driven segmentation and predictive analytics could further optimise engagement. For instance, Ijomah et al. (2024) highlight that machine learning algorithms enable hyper-targeted campaigns by analysing behavioural data, which could address the CTR gap observed in this study. Similarly, Deligiannis et al. (2020) demonstrate that timing optimisation sending emails when users are most active can amplify open rates. Integrating these tools could refine personalisation strategies beyond basic name inclusion, such as tailoring product recommendations based on browsing history or past purchases.
 
 Ethical considerations remain critical. Rahayu et al. (2025) caution that overly intrusive personalisation may erode trust, particularly if users perceive excessive data usage. Transparent consent mechanisms and clear privacy policies, as recommended by Wang et al. (2022), are essential to mitigate such risks. This study’s low unsubscribe rate in Group A (0%) supports this approach, indicating that ethical personalisation balances relevance with respect for user autonomy.
 
