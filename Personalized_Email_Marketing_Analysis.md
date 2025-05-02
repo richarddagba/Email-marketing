@@ -125,4 +125,4 @@ Sayeed, D. (2023) ‘Email marketing – role in improving customer retention ra
 
 Verma, S. and Fatma, S. (2025) ‘How personalization and AI are transforming digital marketing campaigns’, *International Journal of Scientific Research in Engineering and Management*, 9(3), pp. 1–9. https://doi.org/10.55041/ijsrem42751.
 
-Wang, Y., Lu, L. and Shi, P. (2022) ‘Does customer email engagement improve profitability? Evidence from a field experiment in subscription service retailing’, *Manufacturing & Service Operations Management*, 24(5), pp. 2703–2721. https://doi.org/10.1287/msom.2022.1122.
+Wang, Y., Lu, L. and Shi, P. (2022) ‘Does customer email engagement improve profitability? Evidence from a field experiment in subscription service retailing’, *Manufacturing & Service Operations Management*, 24(5), pp. 2703–2721. https://pubsonline.informs.org/doi/10.1287/msom.2022.1122.
