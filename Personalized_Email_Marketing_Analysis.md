@@ -113,16 +113,16 @@ For practitioners, the key takeaway is to adopt a balanced approach: leverage pe
 
 ## References
 
-Deligiannis, A., Argyriou, C. and Kourtesis, D. (2020) ‘Predicting the optimal date and time to send personalized marketing messages to repeat buyers’, *International Journal of Advanced Computer Science and Applications*, 11(4). https://doi.org/10.14569/ijacsa.2020.0110413.
+Deligiannis, A., Argyriou, C. and Kourtesis, D. (2020) ‘Predicting the optimal date and time to send personalized marketing messages to repeat buyers’, *International Journal of Advanced Computer Science and Applications*, 11(4). www.ijacsa.thesai.org
 
-Ijomah, T., Idemudia, C., Eyo-Udo, N. and Anjorin, K. (2024) ‘Innovative digital marketing strategies for SMEs: driving competitive advantage and sustainable growth’, *International Journal of Management & Entrepreneurship Research*, 6(7), pp. 2173–2188. https://doi.org/10.51594/ijmer.v6i7.1265.
+Ijomah, T., Idemudia, C., Eyo-Udo, N. and Anjorin, K. (2024) ‘Innovative digital marketing strategies for SMEs: driving competitive advantage and sustainable growth’, *International Journal of Management & Entrepreneurship Research*, 6(7), pp. 2173–2188. https://fepbl.com/index.php/ijmer/article/view/1265
 
 Rahayu, T., Purnamasari, V., Rizky, M., Rahyadi, I. and Mani, L. (2025) ‘Feeling watched: a phenomenological exploration of consumer discomfort and data privacy concerns in e-commerce personalized email marketing’, *PaperASIA*, 41(1b), pp. 81–92. https://doi.org/10.59953/paperasia.v41i1b.313.
 
 Rana, R., Kiran, S. and Gul, S. (2024) ‘The impact of email marketing on consumer buying decision process in the Pakistani market’, *Journal for Business Education and Management*, 4(1), pp. 209–226. https://doi.org/10.56596/jbem.v4i1.24.
 
-Sayeed, D. (2023) ‘Email marketing – role in improving customer retention rates’, *EPRA International Journal of Economics Business and Management Studies*, pp. 95–99. https://doi.org/10.36713/epra12512.
+Sayeed, D. (2023) ‘Email marketing – role in improving customer retention rates’, *EPRA International Journal of Economics Business and Management Studies*, pp. 95–99.https://eprajournals.com/IJHS/article/10150/abstract
 
-Verma, S. and Fatma, S. (2025) ‘How personalization and AI are transforming digital marketing campaigns’, *International Journal of Scientific Research in Engineering and Management*, 9(3), pp. 1–9. https://doi.org/10.55041/ijsrem42751.
+Verma, S. and Fatma, S. (2025) ‘How personalization and AI are transforming digital marketing campaigns’, *International Journal of Scientific Research in Engineering and Management*, 9(3), pp. 1–9. https://ijsrem.com/download/how-personalization-and-ai-are-transforming-digital-marketing-campaigns/
 
 Wang, Y., Lu, L. and Shi, P. (2022) ‘Does customer email engagement improve profitability? Evidence from a field experiment in subscription service retailing’, *Manufacturing & Service Operations Management*, 24(5), pp. 2703–2721. https://pubsonline.informs.org/doi/10.1287/msom.2022.1122.
