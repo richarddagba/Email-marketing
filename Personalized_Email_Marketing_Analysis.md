@@ -63,7 +63,14 @@ The open rate for personalized emails (31.2%) is significantly higher than for g
 ### Statistical Analysis
 
 📐 Table 2: Summary of Inferential Statistics (Two-Proportion Z-Test)
-![image](https://github.com/user-attachments/assets/e6596b4a-e025-4e0d-9f60-bbf4d06025a8)
+| **Statistics**               | **Value**                                               |
+|--------------------------|----------------------------------------------------------|
+| Z-statistic              | 4.176                                                    |
+| P-value                  | 0.000 (rounded; actual ≈ 0.000015)                       |
+| Alpha level              | 0.05                                                     |
+| Statistical significance | Yes (p < 0.05)                                           |
+| Conclusion               | Reject H₀ – Personalized emails significantly increased customer engagement |
+
 
 I performed a two-proportion z-test to evaluate the significance of the difference in open rates:
 
