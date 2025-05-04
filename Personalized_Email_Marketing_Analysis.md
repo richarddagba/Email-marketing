@@ -56,18 +56,7 @@ Although neither group recorded any clicks, likely due to either content layout 
 
 The open rate for personalized emails (31.2%) is significantly higher than for generic emails (19.8%). Meanwhile, the unsubscribe rate is higher in the generic group (1.1%) compared to 0% in the personalized group.
 
-**Raw Test Data Overview**
-| Email Type        | Personalized | Generic |
-|-------------------|--------------|---------|
-| Total Recipients  | 95           | 94      |
-| Successful Deliveries | 93       | 91      |
-| Bounce Rate       | 2.1          | 3.2     |
-| Open Rate         | 31.2         | 19.8    |
-| Total Opens       | 54           | 21      |
-| CTR               | 0.0          | 0.0     |
-| Total Clicks      | 0            | 0       |
-| Unsubscribe Rate  | 0.0          | 1.1     |
-| Total Unsubs      | 0            | 1       |
+
 
 **Figure 2: Comparison Engagement Metrics**
 ![Comparison of Engagement Metrics](Charts/Comparison%20engagment%20Metrics.png)
