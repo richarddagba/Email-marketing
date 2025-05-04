@@ -56,14 +56,18 @@ Although neither group recorded any clicks, likely due to either content layout 
 
 The open rate for personalized emails (31.2%) is significantly higher than for generic emails (19.8%). Meanwhile, the unsubscribe rate is higher in the generic group (1.1%) compared to 0% in the personalized group.
 
+
 **Figure 2: Comparison Engagement Metrics**
 ![Comparison of Engagement Metrics](Charts/Comparison%20engagment%20Metrics.png)
+
 
 **Figure 3: Engage Metrics Breakdown**
 ![Engagement Metrics Breakdown](Charts/Engagement%20Metrics%20Breakdown.png)
 
+
 **Figure 4: Key Metric Comparison**
 ![Key Metric Comparison](Charts/Key%20Metric%20Comparison.png)
+
 
 **Figure 5: Open Rate Contingency Table**
 ![Open Rate Contingency Table](Charts/Open%20Rate%20Contingency%20table.png)
