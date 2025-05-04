@@ -62,6 +62,9 @@ The open rate for personalized emails (31.2%) is significantly higher than for g
 **Figure 3: Comparison Engagement Metrics**
 ![Comparison_of_engagement_metrics](Charts/Comparison engagment Metrics.png)
 
+**Figure 4: Engage_metrics_breakdown**
+![comparison_engagement_metrics](Charts/Engagement Metrics Breakdown.png)
+
 
 ### Statistical Analysis
 
