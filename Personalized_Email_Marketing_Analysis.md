@@ -125,18 +125,23 @@ For practitioners, the key takeaway is to adopt a balanced approach: leverage pe
 ### Implications
 
 - Businesses should implement AI-powered personalization to increase campaign ROI.
+
 Integrating AI into marketing allows businesses to analyze behavior, predict optimal send times, and personalize at scale. This improves ROI by making campaigns more relevant and efficient.
 
 - Ethical data handling practices must be adopted to ensure long-term trust.
+
 Personalization must be grounded in transparency. Clear communication about data use, user control over preferences, and GDPR compliance are essential for maintaining consumer trust and avoiding backlash.
 
 - Marketing teams should adopt a test-and-learn approach to personalization.
+
 Start with simple tactics like using names, then scale up using behavioral data. A/B testing helps identify what resonates best, allowing for continuous refinement and reduced risk.
 
 - Content quality must complement personalization to drive action.
+
 A personalized subject line can boost opens, but compelling visuals, CTAs, and value-driven messaging are critical to drive conversions and click-throughs.
 
 - Cross-functional collaboration enhances implementation of personalization strategies.
+
 Effective personalization involves marketers, data scientists, designers, and legal teams working together to create campaigns that are creative, technically sound, and privacy-compliant.
 
 - Future research should evaluate long-term effects and broader customer metrics.
