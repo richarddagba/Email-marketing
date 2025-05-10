@@ -113,7 +113,7 @@ Thus, while personalisation is empirically validated as effective, its success h
 
 ## Conclusion
 
-This study conclusively demonstrates that personalised email marketing significantly enhances customer engagement, with Group A achieving a 31.2% open rate compared to 19.8% for generic emails. The statistical significance of these results (Z = 2.52, p = 0.0118) robustly supports the alternative hypothesis (H₁), aligning with prior research by Rana et al. (2024) and Verma and Fatma (2025). The 57% relative improvement in open rates underscores personalisation’s potential to cut through digital clutter, while the absence of unsubscribes in Group A highlights its role in sustaining recipient satisfaction.
+This study conclusively demonstrates that personalised email marketing significantly enhances customer engagement, with Group A achieving a 31.2% open rate compared to 19.8% for generic emails. The statistical significance of these results (Z = 4.176, p = 0.000) robustly supports the alternative hypothesis (H₁), aligning with prior research by Rana et al. (2024) and Verma and Fatma (2025). The 57% relative improvement in open rates underscores personalisation’s potential to cut through digital clutter, while the absence of unsubscribes in Group A highlights its role in sustaining recipient satisfaction.
 
 However, the lack of clicks in both groups reveals a critical gap: personalisation alone cannot drive conversions without compelling content. Businesses must pair tailored messaging with strong CTAs, visually engaging designs, and time-sensitive offers to maximise impact. Integrating AI tools for advanced segmentation and predictive analytics, as proposed by Ijomah et al. (2024), could further refine targeting and timing.
 
