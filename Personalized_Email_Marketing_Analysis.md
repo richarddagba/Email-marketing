@@ -9,6 +9,7 @@ This research investigates the effects of personalized email marketing on custom
 The primary objective is to determine whether personalization enhances engagement metrics; such as open rates, click-through rates, and unsubscribe rates compared to non-personalized email communications. The research hypothesis is structured as follows:
 
 H₀: Personalized emails do not significantly affect customer engagement.
+
 H₁: Personalized emails significantly increase customer engagement.
 
 This study responds to the increasing demand for data-driven marketing strategies, particularly those that can be empirically validated and scaled using automation tools. As competition intensifies, businesses are required to optimise their customer communication strategies not only for efficiency but also for relevance and responsiveness (Rana et al., 2024). Personalized email marketing leverages customer data such as browsing behaviour, purchase history, and demographic attributes to craft highly relevant content, thereby improving the likelihood of engagement (Verma and Fatma, 2025).
